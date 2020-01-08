@@ -20,6 +20,7 @@ var html = `
   <title>${authConfig.siteName}</title>
   <link rel='icon' href='https://cdn.jsdelivr.net/gh/K-E-N-W-A-Y/goindex/themes/favicon.png' type='image/png'/ >
   <script src="//cdn.jsdelivr.net/combine/gh/jquery/jquery@3.2/dist/jquery.min.js,gh/K-E-N-W-A-Y/goindex/themes/material/app.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/K-E-N-W-A-Y/goindex/themes/material/search.js"></script>
 </head>
 <body>
 </body>
