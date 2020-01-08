@@ -1,6 +1,6 @@
 // head
 document.write('<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mdui@0.4.3/dist/css/mdui.min.css">');
-document.write('<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/K-E-N-W-A-Y/goindex/themes/material/custom.css">');
+document.write('<link rel="stylesheet" href="//raw.githack.com/K-E-N-W-A-Y/goindex/master/themes/material/custom.css">');
 document.write('<script src="//cdn.jsdelivr.net/gh/K-E-N-W-A-Y/goindex/themes/material/search.js"></script>');
 // markdown
 document.write('<script src="//cdn.jsdelivr.net/npm/markdown-it@10.0.0/dist/markdown-it.min.js"></script>');
