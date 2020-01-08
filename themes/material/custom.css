@@ -9,7 +9,7 @@ body {
 	box-sizing: border-box
 }
 #myInput {
-	background-image: url(https://cdn.jsdelivr.net/gh/K-E-N-W-A-Y/goindex/themes/searchicon.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/K-E-N-W-A-Y/goindex/themes/material/searchicon.png);
 	background-position: 10px 12px;
 	background-repeat: no-repeat;
 	width: 100%;
