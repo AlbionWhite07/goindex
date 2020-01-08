@@ -26,8 +26,6 @@ var html = `
 </html>
 `;
 
-document.write('<script src="//cdn.jsdelivr.net/gh/K-E-N-W-A-Y/goindex/themes/material/search.js"></script>');
-
 addEventListener('fetch', event => {
     event.respondWith(handleRequest(event.request));
 });
