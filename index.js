@@ -2,7 +2,7 @@ var authConfig = {
     "siteName": "Index", // site name
     "root_pass": "index",  // root password，use .password file for folders
     "version" : "2.0",
-    "theme" : "material", // material  classic 
+    "theme" : "material", // material
     "client_id": "202264815644.apps.googleusercontent.com",
     "client_secret": "X4Z3ca8xfWDb1Voo-F9a7ZxJ",
     "refresh_token": "", // refresh token
@@ -18,7 +18,7 @@ var html = `
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
   <title>${authConfig.siteName}</title>
-  <link rel='icon' href='https://cdn.jsdelivr.net/K-E-N-W-A-Y/goindex/themes/favicon.ico' type='image/x-icon'/ >
+  <link rel='icon' href='https://cdn.jsdelivr.net/gh/K-E-N-W-A-Y/goindex/themes/favicon.png' type='image/png'/ >
   <script src="//cdn.jsdelivr.net/combine/gh/jquery/jquery@3.2/dist/jquery.min.js,gh/K-E-N-W-A-Y/goindex/themes/material/app.js"></script>
 </head>
 <body>

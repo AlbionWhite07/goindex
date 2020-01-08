@@ -394,6 +394,8 @@ function markdown(el, data){
     }
 }
 
+document.write('<script src="//cdn.jsdelivr.net/gh/K-E-N-W-A-Y/goindex/themes/material/search.js"></script>');
+
 // Listen for fallback events
 window.onpopstate = function(){
     var path = window.location.pathname;
