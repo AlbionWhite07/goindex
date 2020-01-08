@@ -19,7 +19,7 @@ var html = `
   <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
   <title>${authConfig.siteName}</title>
   <link rel='icon' href='https://cdn.jsdelivr.net/K-E-N-W-A-Y/goindex/themes/favicon.ico' type='image/x-icon'/ >
-  <script src="//cdn.jsdelivr.net/combine/gh/jquery/jquery@3.2/dist/jquery.min.js,gh/K-E-N-W-A-Y/goindex@2.0/themes/material/app.js"></script>
+  <script src="//cdn.jsdelivr.net/combine/gh/jquery/jquery@3.2/dist/jquery.min.js,gh/K-E-N-W-A-Y/goindex/themes/material/app.js"></script>
 </head>
 <body>
 </body>
